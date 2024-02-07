@@ -2,7 +2,6 @@
 
 - 🌳 背景：正在国立中央大学皇家林学院读大三🤣
 - 🎨 博客：[Codeep's Blog](https://blog.codeep.icu/) ( 博客后续会持续分享学习过程中的记录和心得，欢迎大家关注👣 )
-- 📖 作品：<a href="https://github.com/codeeeep/Design-Patterns" target="_blank">图解设计模式实现</a>
 - 🔭 愿景：希望成为最出色的 Java 开发程序猿
 
 
